@@ -1,4 +1,4 @@
-# Flame's Hub 🔥
+# Flame's Hub 🔥🎃
 
 # Supported Devices:
 
