@@ -30,6 +30,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FlamesW/NEW/main/Laun
 **Thanks to these people: 👇**
 - [Darkrai](CouldntFindLink) | UI Library 👍
 
+---
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/474e7d25-12c7-4a7c-9d9d-840b5a404c44" width="500px">
 </p>
