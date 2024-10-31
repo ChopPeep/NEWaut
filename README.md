@@ -38,3 +38,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FlamesW/NEW/main/Laun
   <img src="https://github.com/user-attachments/assets/54a3d59b-43ea-4148-9203-a0ed9dd6e565" width="500px">
 </p>
 
+&nbsp;
+
+© 2024 Flames. All rights reserved.
