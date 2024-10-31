@@ -16,11 +16,11 @@ local SupportedGames = {
 }
 
 if table.find(SupportedGames.A_Universal_Time,game.PlaceId) then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FlamesW/NEW/main/AUT"))();
+    getgenv().Notify(getgenv().Icon,"Flame's Notification","Script is temporarily down for testing...","","",5.5);
 elseif table.find(SupportedGames.Heaven_Stand,game.PlaceId) then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FlamesW/NEW/main/HS"))();
 elseif table.find(SupportedGames.Sakura_Stand,game.PlaceId) then
-    getgenv().Notify(getgenv().Icon,"Flame's Notification","Sakura stand script will be coming soon  🔥","","",3.5);
+    getgenv().Notify(getgenv().Icon,"Flame's Notification","Sakura stand script will be coming soon  🔥","","",5.5);
 else
     getgenv().Notify(getgenv().Icon,"Flame's Notification","⚠️  Unsupported game detected  ⚠️","","",9e9);
 end
