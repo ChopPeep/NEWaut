@@ -1,6 +1,6 @@
 -- // Game Loader \\ --
 repeat task.wait(0.25) until game:IsLoaded();
-getgenv().CurrentVersion = "1.23";
+getgenv().CurrentVersion = "1.24";
 getgenv().Credits = "flames9925";
 getgenv().Icon = "http://www.roblox.com/asset/?id=119333624150558";
 
