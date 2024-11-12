@@ -16,7 +16,7 @@ local SupportedGames = {
 }
 
 if table.find(SupportedGames.A_Universal_Time,game.PlaceId) then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FlamesW/NEW/main/AUT"))();
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ChopPeep/NEWaut/refs/heads/main/AUT"))();
 elseif table.find(SupportedGames.Heaven_Stand,game.PlaceId) then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/FlamesW/NEW/main/HS"))();
 elseif table.find(SupportedGames.Sakura_Stand,game.PlaceId) then
